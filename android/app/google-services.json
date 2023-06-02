@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423875840483",
+    "project_id": "fortunearrtlighting-365b4",
+    "storage_bucket": "fortunearrtlighting-365b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423875840483:android:a120f6e11c59ae725378d6",
+        "android_client_info": {
+          "package_name": "com.example.fortunearrtlighting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL8OKMZXF4If-1LKzzHoU3ij220pRteV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
